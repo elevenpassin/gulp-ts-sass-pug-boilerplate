@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/buoyantair/memory-match.git"
+    "url": "git+https://github.com/buoyantair/gulp-ts-sass-pug-boilerplate.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/buoyantair/memory-match/issues"
+    "url": "https://github.com/buoyantair/gulp-ts-sass-pug-boilerplate/issues"
   },
-  "homepage": "https://github.com/buoyantair/memory-match#readme",
+  "homepage": "https://github.com/buoyantair/gulp-ts-sass-pug-boilerplate#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.1",
