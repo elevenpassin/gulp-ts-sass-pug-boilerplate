@@ -56,6 +56,7 @@ gulp.task('server', ()=>{
 gulp.task('watch', ()=>{
     gulp.watch("ts/*.ts", ["ts"]);
     gulp.watch("sass/*.sass", ["sass"]);
+    gulp.watch("./index.pug", ["pug"]);
 });
 
 
