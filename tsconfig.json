@@ -1,0 +1,7 @@
+{
+    "files": ["./ts/main.ts"],
+    "compilerOptions": {
+        "onImplicitAny": true,
+        "target": "es5"
+    }
+}

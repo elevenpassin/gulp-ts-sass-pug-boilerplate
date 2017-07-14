@@ -1,0 +1,33 @@
+{
+  "name": "Project title",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buoyantair/memory-match.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buoyantair/memory-match/issues"
+  },
+  "homepage": "https://github.com/buoyantair/memory-match#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-live-server": "0.0.30",
+    "gulp-pug": "^3.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-tslint": "^8.1.1",
+    "gulp-typescript": "^3.2.0",
+    "gulp-uglify": "^3.0.0",
+    "tslint": "^5.5.0",
+    "typescript": "^2.4.1"
+  }
+}
