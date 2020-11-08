@@ -19,17 +19,17 @@
   "homepage": "https://github.com/buoyantair/gulp-ts-sass-pug-boilerplate#readme",
   "devDependencies": {
     "gulp-concat": "^2.6.1",
-    "gulp-live-server": "0.0.30",
+    "gulp-live-server": "0.0.31",
     "gulp-pug": "^3.3.0",
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^3.1.0",
-    "gulp-tslint": "^8.1.2",
-    "gulp-typescript": "^3.2.2",
+    "gulp-tslint": "^8.1.4",
+    "gulp-typescript": "^5.0.1",
     "gulp-uglify": "^3.0.0",
     "tslint": "^5.7.0",
     "typescript": "^2.5.3"
   },
   "dependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^4.0.2"
   }
 }
